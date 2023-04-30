@@ -3,11 +3,11 @@
 
     "AdNetwork": "admob",
 
-    "AdMob_ID": "pub-3940256099942544",
-    "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_ID": "ca-app-pub-5205399128526063~7921293759",
+    "AdMob_Banner": "ca-app-pub-5205399128526063/2625515292",
+    "AdMob_InterstitialAd": "ca-app-pub-5205399128526063/8980004809",
+    "AdMob_Native": "ca-app-pub-5205399128526063/9200368794",
+    "AdMob_RewardAd": "ca-app-pub-5205399128526063/9003221382",
 
 
   },
